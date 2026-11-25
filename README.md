@@ -16,4 +16,4 @@ A lightweight, literary-inspired screenplay library for Windows.
 - Microsoft Edge WebView2 Runtime.
 - Internet connection.
 
-Download and run the Windows installer to get started.
+Download and Extract the zip file and open the exe to get started.
