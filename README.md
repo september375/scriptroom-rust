@@ -10,6 +10,7 @@ A lightweight, literary-inspired screenplay library for Windows.
 - Eco rendering mode for older hardware.
 - Supabase cloud storage.
 - Secure administrator access.
+- Open-Source
 
 **System requirements**
 - Windows 10 or 11 (64-bit).
